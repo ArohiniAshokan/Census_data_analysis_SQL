@@ -1,0 +1,33 @@
+1.Load both datasets
+
+2.Total row count of both datasets
+
+3.Collect all the data of Jharkhand and Bihar
+
+4.Total population of India
+
+5.Average population of India (display upto 3 decimals)
+
+6.Average growth of India and display it in percentage
+
+7.Average growth of each state
+
+8.Average sex ratio of each state and arrange it in descending order
+
+9.States with avg literacy greater than 90 and arrange it in desc order
+
+10.Top 3 states with highest avg growth rate
+
+11.Bottom 3 states with lowest avg sex ratio
+
+12.Top and bottom 3 states with avg literacy rate
+
+13.States starting with letter 'a' and ending with 'h'
+
+14.Find district wise total no of males and females 
+
+15.Find State wise total no of males and females
+
+16.State wise total no of literate and illiterate people
+
+17.State wise top 3 districts with highest literacy rate
